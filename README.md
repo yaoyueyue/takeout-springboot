@@ -1,7 +1,7 @@
 
 
 ## Project Preview
-![后台](../resource/screen-backend.png)
+![后台](./resource/screen-backend.png)
 ## Technologies Used
 - SpringBoot
 - MySql
