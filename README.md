@@ -1,7 +1,7 @@
 
 
 ## Project Preview
-![后台](https://github.com/yaoyueyue/takeout-springboot/resources/screen_backend.png)
+![后台](https://github.com/yaoyueyue/takeout-springboot/resources/screen-backend.png)
 ## Technologies Used
 - SpringBoot
 - MySql
