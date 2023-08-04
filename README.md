@@ -1,9 +1,7 @@
 
 
-##Project Preview 
-
-- Backend
-![后台](https://github.com/yaoyueyue/takeout_springboot/resources/screen_backend.png)
+## Project Preview
+![后台](https://github.com/yaoyueyue/takeout-springboot/resources/screen_backend.png)
 ## Technologies Used
 - SpringBoot
 - MySql
@@ -19,11 +17,11 @@
   - [x] Combo (set meal) management
   - [x] Order management
 - 🔻Frontend
-  -  User module 
-  -  Shopping cart module 
-  -  Address module 
-  -  Order module 
-  -  Dish module
+  - [x] User module 
+  - [x] Shopping cart module 
+  - [x] Address module 
+  - [x] Order module 
+  - [x] Dish module
 
 ## Project Deployment
 
